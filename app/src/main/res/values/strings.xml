@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ContactsList</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="address_book">Address Book</string>
+    <string name="no_contacts">No Contacts</string>
+    <string name="use_the_icon_to_add_a_new_contact">Use the \'+\' icon to add a new contact</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="save">Save</string>
+    <string name="add_new_contact">Add New Contact</string>
+</resources>
